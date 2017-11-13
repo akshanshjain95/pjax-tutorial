@@ -2,10 +2,10 @@
   "name": "pjax-tuto",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "pjax-tutorial/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tutorial": "opn http://localhost:3000/main.html; serve ."
+    "tutorial": "opn http://localhost:3000/pjax-tutorial/main.html; serve ."
   },
   "author": "",
   "license": "ISC",
