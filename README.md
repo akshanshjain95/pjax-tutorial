@@ -4,7 +4,7 @@ This is a Pjax-tutorial. Pjax is a standalone JavaScript module that uses ajax (
 
 To run this tutorial, clone it into your system and simply run the following commands - 
 
-```npm run tutorial```
+```npm install```
 
 ```npm run tutorial```
 
