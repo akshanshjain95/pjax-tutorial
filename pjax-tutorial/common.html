@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset='utf-8'>
+		<title>Pjax Tutorial</title>
+		<script src='node_modules/pjax/pjax.js' type="text/javascript"></script>
+	</head>
+	<body>  
+		<h1>Welcome to Pjax tutorial</h1>
+		<a id="first-link" class="js-Pjax" href="common.html">First link</a>
+		<a id="second-link" href="common.html">Second link</a>   
+		<div id="pjax-div">This is the common page! If you came here from the first link, then you can notice that the page didn't load but only the URL and the contents of this div were changed. Yay! If you came here from the second link then you can notice that the page actually loaded and each and everything was re-executed(JS) and re-applied(CSS) again. Boo!</div>
+		<script src='main.js' type="text/javascript"></script>    
+	</body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "name": "pjax-tuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tutorial": "opn http://localhost:3000/main.html; serve ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pjax": "^0.2.4",
+    "opn-cli": "^3.1.0",
+    "serve": "1.4.0"
+  }
+}
