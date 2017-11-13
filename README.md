@@ -8,6 +8,6 @@ To run this tutorial, clone it into your system and simply run the following com
 
 ```npm run tutorial```
 
-To read about Pjax and learn how to implement it yourself, have a look at my blog - [Have to put blog here]
+To read about Pjax and learn how to implement it yourself, have a look at my blog - http://blog.knoldus.com/2017/11/13/pjax-loading-your-website-faster/
 
 Pjax github repository - https://github.com/MoOx/pjax
